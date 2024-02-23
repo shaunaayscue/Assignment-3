@@ -43,7 +43,7 @@
 .main-content {
     width: 100%;
     height: 55vh;
-    background-image: url(/Assign-3-main/images/banner.jpg);
+    background-image: url(./images/banner.jpg);
     background-size: cover;
     background-position: 70%;
 }
